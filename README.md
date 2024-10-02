@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Tsabitha Ayoumi
-- 🏫 Currently I am a student at SMKN 6 Jakarta
-- 💻 Skill :
-- HTML, CSS, C++, C#, PHP, MY SQL, Laravel
+👋 Hi, I’m Tsabitha Ayoumi
+🏫 Currently I am a student at SMKN 6 Jakarta
+
+💻 Skills : HTML, CSS, C++, C#, PHP, MY SQL, Laravel
+
+🎓 Education Experience :
+- Workshop MongoDB
+- First Winner (Fintech Generation Team), JA Personal Finance
+- Gold Medalist Informatika ISC Olympics
+- Gold Medalist Informatika KSB Olympics
 
 
 <!---
