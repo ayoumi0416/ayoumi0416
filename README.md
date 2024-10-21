@@ -2,7 +2,7 @@
 
 🏫 Currently I am a student at SMKN 6 Jakarta
 
-💻 Skills : HTML, CSS, C++, C#, PHP, MY SQL, Laravel, Figma, Canva
+💻 Skills : HTML, CSS, C++, C#, PHP, MY SQL, Laravel, ReactJs, Figma, Canva
 
 🎓 Education Experience :
 - Workshop MongoDB
