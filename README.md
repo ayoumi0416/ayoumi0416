@@ -9,6 +9,8 @@
 - First Winner (Fintech Generation Team), JA Personal Finance
 - Gold Medalist Informatika ISC Olympics
 - Gold Medalist Informatika KSB Olympics
+- 1st place provincial level English KSSN 2.0 Jenius Competition
+- Gold Medalist English KSSN 2.0 Jenius Competition
 
 
 <!---
